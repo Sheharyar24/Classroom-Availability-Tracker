@@ -1,0 +1,8 @@
+venv/
+
+# Used to test code output in Jupyter Notebooks
+notebook.ipynb
+
+# Data files
+timetable.csv
+timetable.txt

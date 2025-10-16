@@ -1,6 +1,6 @@
 import pandas as pd
 
-# Read the text file (replace with your actual filename)
+# Read the text file
 with open("timetable.txt", "r", encoding="utf-8") as file:
     lines = [line.strip() for line in file if line.strip() and line.strip() not in ["OR", "AND", "code misma"]]
 

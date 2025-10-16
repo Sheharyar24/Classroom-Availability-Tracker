@@ -6,3 +6,6 @@ notebook.ipynb
 # Data files
 timetable.csv
 timetable.txt
+
+#output files
+room_availability.txt
